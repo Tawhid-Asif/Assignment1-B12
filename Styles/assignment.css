@@ -59,17 +59,17 @@ section-title{
 }
 .user{
     margin-top: 100px;
-    height:100px ;
+    height: 300px ;
     
 }
 .review{
     margin-top: 100px;
-    height: 310px;
+    height: 340px;
     
 }
 .newsletter{
     margin-top: 150px;
-    height: 350px;
+    height: 640px;
     
 }
  
@@ -80,7 +80,9 @@ section-title{
 }
 /* footer styles */
 .footer{
-    width: 144opx;
+    max-width: 1440px;
     height: 430px;
+    margin: 0 auto;
+    
 
 }
