@@ -78,3 +78,9 @@ section-title{
     max-width: 1140px;
     margin: 0 auto;
 }
+/* footer styles */
+.footer{
+    width: 144opx;
+    height: 430px;
+
+}
